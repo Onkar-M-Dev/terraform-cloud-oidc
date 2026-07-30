@@ -1,0 +1,2 @@
+admin_role_workspaces = [ "workspace-name" ]
+admin_role_project = "project-name"
