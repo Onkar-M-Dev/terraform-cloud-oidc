@@ -106,7 +106,7 @@ The project provisions and manages:
 
 ### Successful Terraform Run
 
-![Terraform Run](screenshots/terraform-cloud-run-success.png)
+![Terraform Run](screenshots/terraform-cloud-run.png)
 
 ---
 
