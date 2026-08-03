@@ -35,7 +35,7 @@ The following architecture illustrates the authentication flow between Terraform
 
 ---
 
-## Technologies Used
+## Technology Stack
 
 | Category | Technologies |
 |----------|--------------|
