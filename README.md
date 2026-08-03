@@ -151,8 +151,8 @@ The project provisions and manages:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/proj05-tf-cloud-oidc.git
-cd proj05-tf-cloud-oidc
+git clone https://github.com/Onkar-M-Dev/terraform-cloud-oidc.git
+cd terraform-cloud-oidc
 ```
 
 ### Configure variables
