@@ -1,4 +1,4 @@
-# Terraform Cloud AWS OIDC Integration
+# Terraform Cloud - AWS OIDC Integration
 
 Provision AWS infrastructure securely from Terraform Cloud using OpenID Connect (OIDC), eliminating long-lived AWS credentials through IAM role federation and Infrastructure as Code (IaC).
 
@@ -50,7 +50,7 @@ The following architecture illustrates the authentication flow between Terraform
 ## Project Structure
 
 ```text
-proj05-tf-cloud-oidc/
+terraform-cloud-oidc/
 │
 ├── screenshots/
 ├── oidc.tf
