@@ -210,3 +210,13 @@ terraform apply
 - Implement least-privilege IAM policies instead of AdministratorAccess.
 - Provision additional AWS services such as EC2, VPC, and RDS.
 - Integrate GitHub Actions for automated Terraform validation and deployment workflows.
+
+---
+
+## Author
+
+**Onkar Marne**  
+Cloud Engineer | AWS | Terraform | Docker | GitHub Actions | Python
+
+- GitHub: https://github.com/Onkar-M-Dev
+- LinkedIn: https://www.linkedin.com/in/onkar-m-54166819b
